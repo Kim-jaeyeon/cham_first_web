@@ -96,6 +96,7 @@ button:focus{
 }
 
 .backgroud_img{
+    right: 1px;
     width: 100%;
     height: 100%;
     z-index: 0;
