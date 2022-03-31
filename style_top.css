@@ -37,7 +37,14 @@ body{
     text-shadow: 3px 7px 16px rgba(255, 255, 255, 0.6);
 }
 
-#btn{
+#btn1{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+    position: relative;
+}
+#btn2{
     margin-top: 25px;
     display: flex;
     justify-content: center;

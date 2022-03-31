@@ -1,0 +1,9 @@
+body{
+    height: 1000vh;
+}
+
+.backgroud_img{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}

@@ -1,5 +1,5 @@
 
-const countBtn= document.querySelector("#btn button");
+const countBtn= document.querySelector("#btn1 button");
 const count_form=document.querySelector("#count_form");
 const count_view= document.querySelector("#count_view");
 
