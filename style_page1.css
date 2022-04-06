@@ -4,6 +4,8 @@
     height: 100vh;
     position: fixed;
     z-index: -1;
+    right: 1px;
+    bottom: 0.25px;
 }
 
 body{
@@ -20,4 +22,16 @@ body{
     color: white;
     text-shadow: 3px 7px 16px rgba(255, 255, 255, 0.6);
     font-size: 40px;
+}
+.myInfancy{
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+.myInfancy img{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
 }
